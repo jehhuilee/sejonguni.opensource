@@ -4,6 +4,7 @@
 #include "Pawn.h"
 #include "Queen.h"
 #include "Rook.h"
+#include "king.h"
 using namespace sf;
 
 
