@@ -53,7 +53,7 @@
 
 ### 2. Repository를 클론
 ```bash
-git clone [https://github.com/IdeaBank/OpenSource_SW_Final.git](https://github.com/jehhuilee/sejonguni.opensource.git)
+git clone https://github.com/jehhuilee/sejonguni.opensource.git
 ```
 
 ### 3. 클론한 파일을 프로젝트에 넣고 실행
